@@ -1,0 +1,16 @@
+{
+  "name": "edgar-calc",
+  "version": "1.0.0",
+  "description": "Módulo para cálculos simples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calc",
+    "sum",
+    "multiplication"
+  ],
+  "author": "Edgar Faria Barbosa",
+  "license": "MIT"
+}
