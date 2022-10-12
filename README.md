@@ -1,4 +1,4 @@
-# Este é o módulo edgar-calc
+# [Este é o módulo edgar-calc](https://www.npmjs.com/package/edgar-calc)
 
 Ele executa várias operações aritméticas
 
