@@ -6,6 +6,14 @@ class Calc {
     sub(n1, n2) {
         return n1 - n2;
     }
+    
+    mult(n1, n2) {
+        return n1 * n2;
+    }
+    
+    div(n1, n2) {
+        return n1 / n2;
+    }
 }
 
-module.exports = new Calc;
+module.exports = new Calc
